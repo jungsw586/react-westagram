@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
-import './App.css';
-import MainLogin from './Component/MainLogin';
-import SecLogin from './Component/SecLogin';
-import AppDwn from './Component/AppDwn';
-import StoreLink from './Component/StoreLink';
+import './Login.css';
+import MainLogin from './Component_login/MainLogin';
+import SecLogin from './Component_login/SecLogin';
+import AppDwn from './Component_login/AppDwn';
+import StoreLink from './Component_login/StoreLink';
 import AppStoreIcon from './img/appstore.png';
 import GooglePlayStoreIcon from './img/google-play-badge.png';
 
